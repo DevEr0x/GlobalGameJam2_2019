@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Draggable
+  - Ball
+  - PUZZLE
+  - KILL
+  - hazard
+  - BALL
+<<<<<<< HEAD
+<<<<<<< HEAD
+  - Dialouge
+=======
+  - MOP
+>>>>>>> 3b67895f7d30faaa6f7c95186529e9e598f9408e
+=======
+  - MOP
+>>>>>>> 3b67895f7d30faaa6f7c95186529e9e598f9408e
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: New Layer
+    uniqueID: 414915677
+    locked: 0
+  - name: Background
+    uniqueID: 1745440143
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: block
+    uniqueID: 3572168743
+    locked: 0
+  - name: PuzzBack
+    uniqueID: 2449930631
+    locked: 0
+  - name: Puzzle
+    uniqueID: 192049117
+    locked: 0
+  - name: player
+    uniqueID: 1905406015
+    locked: 0
